@@ -38,3 +38,17 @@ ChatGPT (OpenAI) foi usado para apoiar a elaboração do código e da documenta�
 ## Entrega no Classroom
 
 Crie/publicize um repositório no GitHub, envie o mesmo link no Classroom e inclua capturas de tela da listagem/formulário de Pessoas, da página de Reservas e de uma tentativa de conflito bloqueada. O link e as capturas precisam ser adicionados pelo integrante antes do envio.
+
+## Capturas de tela
+
+### Listagem de pessoas
+
+![Listagem de pessoas](docs/pessoas-lista.jpg)
+
+### Formulário de pessoa
+
+![Formulário de pessoa](docs/pessoa-formulario.jpg)
+
+### Conflito de reserva bloqueado
+
+![Mensagem de conflito de reserva](docs/reserva-conflito.jpg)
